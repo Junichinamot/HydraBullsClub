@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa996803314ace961389c5df3d12f6ed400d18f36",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xa996803314ace961389c5df3d12f6ed400d18f36",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Hydra Bulls Club",
+  "SYMBOL": "HBC",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/HYDRA-BULLS-CLUB",
+  "SHOW_BACKGROUND": true
+}
